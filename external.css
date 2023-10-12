@@ -1,0 +1,10 @@
+body{
+    background-color: darkgray;
+}
+h1{
+    background-color: rgb(161, 122, 116);
+}
+p{
+    color: aliceblue;
+    background-color: black;
+}
